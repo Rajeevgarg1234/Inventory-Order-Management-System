@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Environment files
+.env
+.env.local
+
+# Logs
+logs
+*.log
+
+# Build folders
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Pipenv
+Pipfile.lock
+
+# AI model/cache
+.cache/
