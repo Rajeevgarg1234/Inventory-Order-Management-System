@@ -17,23 +17,23 @@ Full-stack assignment project with React frontend, FastAPI backend, PostgreSQL d
 ## Project Structure
 
 inventory_order_system/
-  backend/
+  - backend/
     app/
-      main.py
-      models.py
-      schemas.py
-      database.py
-      config.py
-    Dockerfile
-    requirements.txt
-  frontend/
+    -  main.py
+    - models.py
+    - schemas.py
+    - database.py
+    - config.py
+    - Dockerfile
+    - requirements.txt
+  - frontend/
     src/
-      main.jsx
-      api.js
-      style.css
-    Dockerfile
-    package.json
-  docker-compose.yml
+    - main.jsx
+    - api.js
+    - style.css
+    - Dockerfile
+    - package.json
+  - docker-compose.yml
 
 
 ## Important API Endpoints
